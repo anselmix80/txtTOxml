@@ -1,0 +1,5 @@
+codice: 0001
+anno: 2024
+tipo: timbrature
+hash:  # (Qui verrà inserito l'hash calcolato dal programma)
+file: 0001_2024.pdf
